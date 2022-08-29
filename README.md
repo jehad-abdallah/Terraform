@@ -1,1 +1,1 @@
-# Terraform
+# This is a Terraform exercises
